@@ -1,2 +1,2 @@
 # The-Sparks-Foundation-Internship
-Graduate Rotational Program of 'The Sparks Foundation'
+Graduate Rotational Program(GRIP) of 'The Sparks Foundation'
